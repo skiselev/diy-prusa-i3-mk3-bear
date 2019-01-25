@@ -30,8 +30,7 @@ LMU8 Linear Bearing                | LMU8 Linear Bearing               | 10     
 Metal Rod                          | Z-Axis Rod - 8 mm, 320 mm length  | 2        | Misumi PSFJ8-320
 Metal Rod                          | Y-Axis Rod - 8 mm, 330 mm length  | 2        | Misumi PSFJ8-330
 Metal Rod                          | Z-Axis Rod -                      | 2        | Misumi PSFJ8-370
-Electronics                        | Einsy Rambo 1.1                   | 1        | 
-UltiMachine (EINSY RAMBo 1.1)[https://ultimachine.com/collections/electronics/products/einsy-rambo-1-1]
+Electronics                        | Einsy Rambo 1.1                   | 1        | UltiMachine (EINSY RAMBo 1.1)[https://ultimachine.com/collections/electronics/products/einsy-rambo-1-1]
 
 Parts to add to the BOM:
 * Electronics:
