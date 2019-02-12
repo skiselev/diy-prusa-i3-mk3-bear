@@ -51,8 +51,8 @@ Electronics Assembly        | 2004 LCD Display - [RepRapDiscount Smart Controlle
 Fan                         | Print cooling fan | 1 | $8.69 | All3D Makers [MK3 Part Cooling Fan](https://all3dmakers.com/collections/electronics/products/mk3-part-cooling-fan)
 Fan                         | Hotend fan | 1 | $5.13 | Mouser [369-MF40100V21UA99](https://www.mouser.com/ProductDetail/369-MF40100V21UA99), All3D Makers [Sunon MF40100V1-1000U-G99 Hotend Cooling Fan](https://all3dmakers.com/collections/electronics/products/sunon-mf40100v1-1000u-g99-hotend-cooling-fan)
 Cable                       | Cable / pig tail for hot end fan | 1 | $1.69 | All3D Makers [700mm Pigtail wire with Molex connector](https://all3dmakers.com/collections/electronics/products/700mm-pigtail-wire-with-molex-connector)
-Electronics Assembly        | PINDA 2 sensor | 1 | 15.99 | All3D Makers [P.I.N.D.A 2 Inductive Sensor](https://all3dmakers.com/collections/electronics/products/p-i-n-d-a-2-inductive-sensor)
-Electronics Assembly        | Filament sensor | 1 | ? | eBay?!
+Electronics Assembly        | PINDA 2 sensor | 1 | $15.99 | All3D Makers [P.I.N.D.A 2 Inductive Sensor](https://all3dmakers.com/collections/electronics/products/p-i-n-d-a-2-inductive-sensor)
+Electronics Assembly        | Filament sensor | 1 | $16.17 | eBay (find supplier)
 Heatbed                     | MK52 headbed | 1 | $89.99 | All3D Makers [24v MK52 Heat bed for Prusa MK3](https://all3dmakers.com/collections/electronics/products/24v-mk52-heat-bed-for-prusa-mk3)
 Electronics Assembly        | MK3 24V Power Supply | 1 | $69.99 | All3D Makers [24V MK3 Power Supply Assembly with Power Panic](https://all3dmakers.com/collections/electronics/products/24v-250-watts-switching-power-supply)
 Motors kit                  | Stepper motors kit | 1 | $124.99 | All3D Makers [Motor Kit for Bear Upgrade, MK2/3, Haribo and Zaribo Mod](https://all3dmakers.com/collections/electronics/products/motor-kit-for-bear-upgrade-mk2-3-and-haribo-mod)
