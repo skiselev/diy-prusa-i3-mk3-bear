@@ -1,5 +1,5 @@
 # diy-prusa-i3-mk3-bear
-My attempt to build a Prusa i3 MK3 3D Printer with Full Bear frame from scratch
+My attempt to build an improved Prusa i3 MK3 3D printer clone with Full Bear frame from scratch
 
 ## Bill of Materials
 Assembly/Component Type            | Description                       | Quantity | Possible sources and notes 
@@ -48,25 +48,27 @@ Dowel Pin                          | Dowel Pin 24 mm length, 5mm diameter | 1 | 
 Dowel Pin                          | Dowel Pin 15.8 mm length, 5mm diameter | 1 | All3D Makers [Bear X Axis Dowel Pin for E3D Gates 5mm bore idler](https://all3dmakers.com/collections/hardware/products/bear-x-axis-dowel-pin-for-e3d-gates-5mm-bore-idler)
 Electronics                        | Einsy Rambo 1.1                   | 1        | UltiMachine [EINSY RAMBo 1.1](https://ultimachine.com/collections/electronics/products/einsy-rambo-1-1)
 Electronics                        | 2004 LCD Display - [RepRapDiscount Smart Controller](https://reprap.org/wiki/RepRapDiscount_Smart_Controller) | 1 | eBay
-Electronics                        | Filament fan | 1 | All3D Makers
-Electronics                        | Hot end fan | 1| Mouser
-Electronics                        | Cable / pig tail for hot end fan | 1 | All3D Makers
-Electronics                        | PINDA 2 sensor | 1 | All3D Makers
+Electronics                        | Print cooling fan | 1 | All3D Makers [MK3 Part Cooling Fan](https://all3dmakers.com/collections/electronics/products/mk3-part-cooling-fan)
+Electronics                        | Hotend fan | 1 | Mouser [369-MF40100V21UA99](https://www.mouser.com/ProductDetail/369-MF40100V21UA99), All3D Makers [Sunon MF40100V1-1000U-G99 Hotend Cooling Fan](https://all3dmakers.com/collections/electronics/products/sunon-mf40100v1-1000u-g99-hotend-cooling-fan)
+Electronics                        | Cable / pig tail for hot end fan | 1 | All3D Makers [700mm Pigtail wire with Molex connector](https://all3dmakers.com/collections/electronics/products/700mm-pigtail-wire-with-molex-connector)
+Electronics                        | PINDA 2 sensor | 1 | All3D Makers [P.I.N.D.A 2 Inductive Sensor](https://all3dmakers.com/collections/electronics/products/p-i-n-d-a-2-inductive-sensor)
 Electronics                        | Filament sensor | 1 | eBay?!
-Electronics                        | MK52 headbed | 1 | All3D Makers
-Electronics                        | MK3 24V Power Supply | 1 | All3D Makers
+Electronics                        | MK52 headbed | 1 | All3D Makers [24v MK52 Heat bed for Prusa MK3](https://all3dmakers.com/collections/electronics/products/24v-mk52-heat-bed-for-prusa-mk3)
+Electronics                        | MK3 24V Power Supply | 1 | All3D Makers [24V MK3 Power Supply Assembly with Power Panic](https://all3dmakers.com/collections/electronics/products/24v-250-watts-switching-power-supply)
+Electronics                        | Stepper motors kit | 1 | All3D Makers [Motor Kit for Bear Upgrade, MK2/3, Haribo and Zaribo Mod](https://all3dmakers.com/collections/electronics/products/motor-kit-for-bear-upgrade-mk2-3-and-haribo-mod)
 Y Carriage                         | Prusa i3 MK3 Aluminum Y carriage | 1 | All3D Makers [Prusa i3 MK3 Aluminum Y carriage](https://all3dmakers.com/collections/hardware/products/original-prusa-i3-mk3-3d-printer-aluminum-y-carriage?variant=14666953883763)
 Spring Steel Sheet                 | MK3 Spring Steel Sheet | 1 | BuildTak [FlexPlate MK3 - 9.5"x10"](https://www.buildtak.com/product/flexplate-surface/)
 Print Surface                      | Print Surface | 1 | BuiltTak [Original 3ED Printing Surface - 9"X10"](https://www.buildtak.com/product/buildtak-3d-printing-surface/)
 Hardware                           | U-Bolts for LMU8U Bearings and nyloc nuts | 1 set | All3D Makers [U-Bolts for LMU8U Bearings](https://all3dmakers.com/collections/hardware/products/u-bolts-to-hold-the-lm8uu-bearings-to-the-y-carriage-on-the-mk2s)
+Extruder                           | Bondtech MK2/MK2S/MK3 upgrade kit with Bondtech gears | 1 | All3D makers [Prusa i3 MK2/MK2S Extruder Upgrade](https://all3dmakers.com/collections/electronics/products/prusa-i3-mk2-mk2s-extruder-upgrade)
+Hotend                             | MK3 E3D V6 | All3D Makers [MK3 E3DV6 Assembled Hotend](https://all3dmakers.com/collections/electronics/products/mk3-e3dv6-assembled-hotend)
+
+### Upgrades
+Assembly/Component Type            | Description                       | Quantity | Possible sources and notes 
+---------------------------------- | --------------------------------- | -------- | --------------------------
+Y Carriage                         | Updated Y idler holder and Y belt holder | 1 | [Print](https://www.thingiverse.com/thing:3122625)
 
 
-Parts to add to the BOM:
-* Motors
-* X Axis:
-  * Print head:
-    * Extruder
-    * Hot end
 * screws
 * nuts
 
