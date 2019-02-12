@@ -12,7 +12,7 @@ Aluminum Frame and Hardware | Full Bear MK3 Upgrade Kit - [Detailed BOM](https:/
 3D Printed Part             | Full Bear MK3 - [z_motor_mounts](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/z_motor_mounts.stl) | 1 (total of 2 parts) | Print (priority 1)
 3D Printed Part             | Full Bear MK3 - [z_motor_mount_front](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/z_motor_mount_front.stl) | 2        | Print (priority 1)
 3D Printed Part             | Full Bear MK3 - [z_tops](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/z_tops.stl) | 1 (total of 2 parts) | Print (priority 1)
-3D Printed Part             | Full Bear MK3 - [foot](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/foot.stl) 4 | Print (priority 2)
+3D Printed Part             | Full Bear MK3 - [foot](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/foot.stl) | 4 | Print (priority 2)
 3D Printed Part             | Full Bear MK3 - [psu_lower_mount](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/psu_lower_mount.stl) | 1 | Print (priority 2)
 3D Printed Part             | Full Bear MK3 - [psu_upper_mount](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/psu_upper_mount.stl) | 2 | Print (priority 2)
 3D Printed Part             | Full Bear MK3 - [rambo_base_lower_mount](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/rambo_base_lower_mount.stl) | 1 | Print (priority 3)
@@ -44,7 +44,7 @@ Metal Rod                   | Z-Axis Rod - 8 mm diameter, 370 mm length  | 2    
 Belt                        | 2GT Belt                          | 2        | Misumi [GBN8522GT-60](https://us.misumi-ec.com/vona2/detail/110302652060/?ProductCode=GBN8522GT-60)
 Idler                       | 2GT 20 Tooth Idler, 5 mm bore     | 2        | E3D
 Pulley                      | 2GT 16 Tooth Pulley, 5 mm bore    | 2        | E3D
-Dowel Pin                   | Dowel Pin 24 mm length, 5mm diameter | 1 | Fastenal
+Dowel Pin                   | Dowel Pin 24 mm length, 5mm diameter | 1 | Fastenal [90501](https://www.fastenal.com/products/details/90501)
 Dowel Pin                   | Dowel Pin 15.8 mm length, 5mm diameter | 1 | All3D Makers [Bear X Axis Dowel Pin for E3D Gates 5mm bore idler](https://all3dmakers.com/collections/hardware/products/bear-x-axis-dowel-pin-for-e3d-gates-5mm-bore-idler)
 Electronics Assembly        | Einsy Rambo 1.1                   | 1        | UltiMachine [EINSY RAMBo 1.1](https://ultimachine.com/collections/electronics/products/einsy-rambo-1-1)
 Electronics Assembly        | 2004 LCD Display - [RepRapDiscount Smart Controller](https://reprap.org/wiki/RepRapDiscount_Smart_Controller) | 1 | eBay
@@ -62,11 +62,23 @@ Print Surface               | Print Surface | 1 | BuiltTak [Original 3ED Printin
 Hardware                    | U-Bolts for LMU8U Bearings and nyloc nuts | 1 set | All3D Makers [U-Bolts for LMU8U Bearings](https://all3dmakers.com/collections/hardware/products/u-bolts-to-hold-the-lm8uu-bearings-to-the-y-carriage-on-the-mk2s)
 Extruder                    | [Bondtech MK2/MK2S/MK3 upgrade kit with Bondtech gears](https://www.bondtech.se/en/product/prusa-i3-mk2-mk2s-extruder-upgrade/) | 1 | All3D makers [Prusa i3 MK2/MK2S Extruder Upgrade](https://all3dmakers.com/collections/electronics/products/prusa-i3-mk2-mk2s-extruder-upgrade)
 Hotend                      | MK3 E3D V6 | 1 | All3D Makers [MK3 E3DV6 Assembled Hotend](https://all3dmakers.com/collections/electronics/products/mk3-e3dv6-assembled-hotend)
+Screw                        | M4 x 10mm button socket screw | 2 | Fastenal [MB2530010A20000](https://www.fastenal.com/products/details/MB2530010A20000)
+Screw                        | M3 x 10mm socket cap screw    | 17 | Fastenal [MS2510010A20000](https://www.fastenal.com/products/details/MS2510010A20000)
+Screw                        | M3 x 12mm socket cap screw    | 10 | Fastenal [MS2510012A20000](https://www.fastenal.com/products/details/MS2510012A20000)
+Screw                        | M3 x 18mm socket cap screw    | 13 | Fastenal [MS2510018A20000](https://www.fastenal.com/products/details/MS2510018A20000)
+Screw                        | M3 x 40mm socket cap screw    | 4 | Fastenal [MS2510040A20000](https://www.fastenal.com/products/details/MS2510040A20000)
+Nut                          | M3 hex nut                    | 12 | Fastenal [MN2510000A20000](https://www.fastenal.com/products/details/MN2510000A20000)
+Nut                          | M3 nyloc nut                  | 2 | Fastenal [1L2510000A20000](https://www.fastenal.com/products/details/1L2510000A20000)
+Nut                          | M3 square nut                 | 4 | Fastenal [0161907](https://www.fastenal.com/products/details/0161907)
+Washer                       | M3 x 7 mm washer              | 9 | Fastenal [MW6330000A20000](https://www.fastenal.com/products/details/MW6330000A20000)
+
+
+
 
 ### Upgrades
-Assembly/Component Type            | Description                       | Quantity | Possible sources and notes 
----------------------------------- | --------------------------------- | -------- | --------------------------
-Y Carriage                         | Updated Y idler holder and Y belt holder | 1 | [Print](https://www.thingiverse.com/thing:3122625)
+Assembly/Component Type     | Description                       | Quantity | Possible sources and notes 
+--------------------------- | --------------------------------- | -------- | --------------------------
+3D Printed Part             | Updated Y idler holder and Y belt holder | 1 | [Print](https://www.thingiverse.com/thing:3122625)
 
 
 * screws
