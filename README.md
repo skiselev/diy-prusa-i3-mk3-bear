@@ -81,6 +81,7 @@ Assembly/Component Type     | Description                       | Quantity | Pos
 ## Documentation
 
 * [Prusa i3 Bear Full Upgrade MK3](https://github.com/gregsaun/prusa_i3_bear_upgrade/tree/master/full_upgrade/for_mk3/manual)
+* [Original Prusa i3 MK3S Kit Assembly Manual](https://manual.prusa3d.com/c/Original_Prusa_i3_MK3S_kit_assembly)
 * [Bondtech Prusa i3 Assembly Manual](https://github.com/BondtechAB/Bondtech_Prusa_i3/tree/master/Doc)
 * [Bear X Axis and Bondtech Extruder](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/optional_parts/bondtech_x_carriage)
 * [Optional part for Prusa i3 Bear Upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/optional_parts.md)
