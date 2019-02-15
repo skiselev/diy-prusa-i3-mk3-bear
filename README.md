@@ -67,6 +67,7 @@ Screw                        | M4 x 10mm button socket screw | 2 | $0.42 | Faste
 Screw                        | M3 x 10mm socket cap screw    | 17 | $3.14 | Fastenal [MS2510010A20000](https://www.fastenal.com/products/details/MS2510010A20000)
 Screw                        | M3 x 12mm socket cap screw    | 10 | $2.09 | Fastenal [MS2510012A20000](https://www.fastenal.com/products/details/MS2510012A20000)
 Screw                        | M3 x 18mm socket cap screw    | 13 | $5.89 | Fastenal [MS2510018A20000](https://www.fastenal.com/products/details/MS2510018A20000)
+Screw                        | M3 x 30mm socket cap screw    | 1 | $0.32 | Fastenal [MS2510030A20000](https://www.fastenal.com/products/details/MS2510030A20000)
 Screw                        | M3 x 40mm socket cap screw    | 4 | $1.45 | Fastenal [MS2510040A20000](https://www.fastenal.com/products/details/MS2510040A20000)
 Nut                          | M3 hex nut                    | 12 | $0.88 | Fastenal [MN2510000A20000](https://www.fastenal.com/products/details/MN2510000A20000)
 Nut                          | M3 nyloc nut                  | 2 | $0.32| Fastenal [1L2510000A20000](https://www.fastenal.com/products/details/1L2510000A20000)
