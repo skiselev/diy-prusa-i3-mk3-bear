@@ -46,8 +46,7 @@ Metal Rod                   | Z-Axis Rod - 8 mm diameter, 370 mm length  | 2 | $
 Belt                        | 2GT Belt                          | 2 | $14.54 | Misumi [GBN8522GT-60](https://us.misumi-ec.com/vona2/detail/110302652060/?ProductCode=GBN8522GT-60)
 Idler                       | 2GT 20 Tooth Idler, 6 mm width, 5 mm bore     | 2 | £10.40 | E3D [M-IDLER-T-GT2-P20-6-A-P5-H100](https://e3d-online.com/gates-powergripr-toothed-idler-6mm)
 Pulley                      | 2GT 16 Tooth Pulley, 6 mm width, 5 mm bore    | 2 | £7.00 | E3D [M-PULLEY-GT2-16T-6-P5-C-H155](https://e3d-online.com/gates-powergrip-pulley-16-tooth-6mm)
-Dowel Pin                   | Dowel Pin 24 mm length, 5mm diameter | 1 | $0.98 | Fastenal [90501](https://www.fastenal.com/products/details/90501)
-Dowel Pin                   | Dowel Pin 15.8 mm length, 5mm diameter | 1 | $1.69 | All3D Makers [Bear X Axis Dowel Pin for E3D Gates 5mm bore idler](https://all3dmakers.com/collections/hardware/products/bear-x-axis-dowel-pin-for-e3d-gates-5mm-bore-idler)
+Dowel Pin                   | Dowel Pin 15.8 mm length, 5mm diameter | 2 | $1.69 | All3D Makers [Bear X Axis Dowel Pin for E3D Gates 5mm bore idler](https://all3dmakers.com/collections/hardware/products/bear-x-axis-dowel-pin-for-e3d-gates-5mm-bore-idler)
 Electronics Assembly        | Einsy Rambo 1.1                   | 1 | $120.00 | UltiMachine [EINSY RAMBo 1.1](https://ultimachine.com/collections/electronics/products/einsy-rambo-1-1), All3D Makers [MK3 EINSY RAMBo](https://all3dmakers.com/collections/electronics/products/mk3-einsy-rambo)
 Electronics Assembly        | 2004 LCD Display - [RepRapDiscount Smart Controller](https://reprap.org/wiki/RepRapDiscount_Smart_Controller) | 1 | $16.70 | eBay
 Fan                         | Print cooling fan | 1 | $8.69 | All3D Makers [MK3 Part Cooling Fan](https://all3dmakers.com/collections/electronics/products/mk3-part-cooling-fan)
