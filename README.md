@@ -62,17 +62,17 @@ Miscellanous Hardware       | Textile sleeves for headbed and extruder cables | 
 Miscellanous Hardware       | 3 mm x 50 cm Nylon Filament | 1 | $0.69 | All3D Makers [MK3/MK2.5/MK2S Extruder Nylon Guide](https://all3dmakers.com/collections/hardware/products/mk3-mk2-5-mk2s-extruder-nylon-guide)
 Extruder                    | [Bondtech MK2/MK2S/MK3 upgrade kit with Bondtech gears](https://www.bondtech.se/en/product/prusa-i3-mk2-mk2s-extruder-upgrade/) | 1 | $115 | All3D makers [Prusa i3 MK2/MK2S Extruder Upgrade](https://all3dmakers.com/collections/electronics/products/prusa-i3-mk2-mk2s-extruder-upgrade)
 Hotend                      | E3D V6, 1.75 mm nozzle, 24V | 1 | £43.00, $79.99| E3D [V6-175-24V](https://e3d-online.com/v6-all-metal-hotend), All3D Makers [MK3 E3DV6 Assembled Hotend](https://all3dmakers.com/collections/electronics/products/mk3-e3dv6-assembled-hotend)
-Screw                        | M4 x 10mm button socket screw | 2 - power supply upper mount | $0.42 | Fastenal [MB2530010A20000](https://www.fastenal.com/products/details/MB2530010A20000)
-Screw                        | M3 x 10mm socket cap screw    | Total: 24<br>2 - headbed cable assembly<br>3 - headbed cable cover |update | Fastenal [MS2510010A20000](https://www.fastenal.com/products/details/MS2510010A20000)
+Screw                        | M4 x 10mm button socket screw | 2 | $0.42 | Fastenal [MB2530010A20000](https://www.fastenal.com/products/details/MB2530010A20000)<br>2 - power supply upper mount
+Screw                        | M3 x 10mm socket cap screw    | 24 | update | Fastenal [MS2510010A20000](https://www.fastenal.com/products/details/MS2510010A20000)<br>2 - headbed cable assembly<br>3 - headbed cable cover
 Screw                        | M3 x 12mm socket cap screw    | 10 | $2.09 | Fastenal [MS2510012A20000](https://www.fastenal.com/products/details/MS2510012A20000)
-Screw                        | M3 x 14mm socket cap screw    | 2 - Y belt holder and tensioner | update | Fastenal [MS2510014A20000](https://www.fastenal.com/products/details/MS2510014A20000)
+Screw                        | M3 x 14mm socket cap screw    | 2 | update | Fastenal [MS2510014A20000](https://www.fastenal.com/products/details/MS2510014A20000)<br>2 - Y belt holder and tensioner
 Screw                        | M3 x 18mm socket cap screw    | 13 | $5.89 | Fastenal [MS2510018A20000](https://www.fastenal.com/products/details/MS2510018A20000)
-Screw                        | M3 x 30mm socket cap screw    | 1 - Y belt holder and tensioner | $0.32 | Fastenal [MS2510030A20000](https://www.fastenal.com/products/details/MS2510030A20000)
+Screw                        | M3 x 30mm socket cap screw    | 1 | $0.32 | Fastenal [MS2510030A20000](https://www.fastenal.com/products/details/MS2510030A20000)<br>1 - Y belt holder and tensioner
 Screw                        | M3 x 40mm socket cap screw    | 4 | $1.45 | Fastenal [MS2510040A20000](https://www.fastenal.com/products/details/MS2510040A20000)
-Nut                          | M3 hex nut                    | Total: 17<br>3 - headbed cable cover | update | Fastenal [MN2510000A20000](https://www.fastenal.com/products/details/MN2510000A20000)
-Nut                          | M3 nyloc nut                  | Total: 8<br>3 - Y belt holder and tensioner<br>2 - headbed cable assembly | upate| Fastenal [1L2510000A20000](https://www.fastenal.com/products/details/1L2510000A20000)
-Nut                          | M3 square nut                 | 4 - X carriage | $0.80 | Fastenal [0161907](https://www.fastenal.com/products/details/0161907)
-Washer                       | M3 x 7 mm washer              | 9<br>2 - headbed cable assembly | $0.29 | Fastenal [MW6330000A20000](https://www.fastenal.com/products/details/MW6330000A20000).
+Nut                          | M3 hex nut                    | 17 | update | Fastenal [MN2510000A20000](https://www.fastenal.com/products/details/MN2510000A20000)<br>3 - headbed cable cover
+Nut                          | M3 nyloc nut                  | 8 | upate| Fastenal [1L2510000A20000](https://www.fastenal.com/products/details/1L2510000A20000)<br>3 - Y belt holder and tensioner<br>2 - headbed cable assembly
+Nut                          | M3 square nut                 | 4 | $0.80 | Fastenal [0161907](https://www.fastenal.com/products/details/0161907)<br>4 - X carriage
+Washer                       | M3 x 7 mm washer              | 9 | $0.29 | Fastenal [MW6330000A20000](https://www.fastenal.com/products/details/MW6330000A20000)<br>2 - headbed cable assembly
 Filament                     | 1 kg PETG                     | 1 | $24.99 | Amazon [eSUN 3D 1.75mm PETG Orange Filament 1kg](https://www.amazon.com/eSUN-1-75mm-Filament-Printer-Semi-Transparent/dp/B010Y25QZ2)
 
 ### Alternative: Original Prusa i3 MK3S Einsy Enclosure
