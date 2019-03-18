@@ -3,7 +3,7 @@ My attempt to build an improved Prusa i3 MK3 3D printer clone with Full Bear fra
 
 ## Bill of Materials
 Assembly/Component Type     | Description                       | Quantity | Price | Possible sources and notes
-----------------------------| --------------------------------- | -------- | ----- | -------------------------- 
+--------------------------- | --------------------------------- | -------- | ----- | -------------------------- 
 Aluminum Frame and Hardware | Full Bear MK3 Upgrade Kit - [Detailed BOM](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/manual/bom.md) | 1 | $124.99 |ALL3D Makers [MK3 Bear Upgrade](https://all3dmakers.com/collections/bear-upgrade-kit/products/mk3-bear-upgrade)
 3D Printed Part             | Full Bear MK3 - [build_helper_106mm](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/build_helper_106mm.stl) | 1 | Filament | Print (priority 1)
 3D Printed Part             | Full Bear MK3 - [rod_holder](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/rod_holder.stl) | 4 | Filament | Print (priority 1)
@@ -80,7 +80,7 @@ Filament                     | 1 kg PETG                     | 1 | $24.99 | Amaz
 
 ### Alternative: Original Prusa i3 MK3S Einsy Enclosure
 Assembly/Component Type     | Description                       | Quantity | Price | Possible sources and notes
-----------------------------| --------------------------------- | -------- | ----- | -------------------------- 
+--------------------------- | --------------------------------- | -------- | ----- | -------------------------- 
 3D Printed Part             | Full Bear MK3 - [rambo_base_lower_mount](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/rambo_base_lower_mount.stl) | 1 | Filament | Print (priority 3)
 3D Printed Part             | Full Bear MK3 - [rambo_base_upper_mount](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/rambo_base_upper_mount.stl) | 1 | Filament | Print (priority 3)
 3D Printed Part             | Full Bear MK3 - [rambo_lid_lower_hinge](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/rambo_lid_lower_hinge.stl) | 1 | Filament | Print (priority 3)
@@ -89,6 +89,15 @@ Assembly/Component Type     | Description                       | Quantity | Pri
 3D Printed Part             | Original Prusa i3 MK3S - [Einsy-doors](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/Printed-Parts/STL/Einsy-doors.stl) | 1 | Filament | Print (priority 3)
 3D Printed Part             | Original Prusa i3 MK3S - [Extruder-cable-clip](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/Printed-Parts/STL/Extruder-cable-clip.stl) | 1 | Filament | Print (priority 3)
 3D Printed Part             | Original Prusa i3 MK3S - [Heatbed-cable-clip](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/Printed-Parts/STL/Heatbed-cable-clip.stl) | 1 | Filament | Print (priority 3)
+
+### Reverse Bowden Add-on
+Assembly/Component Type     | Description                       | Quantity | Price | Possible sources and notes
+--------------------------- | --------------------------------- | -------- | ----- | --------------------------
+3D Printed Part             | [Bondtech extruder add-on](https://www.thingiverse.com/thing:3463618) | 1 | Filament | Print
+3D Printed Part             | [Bear MK3 Z-Top with reverse bowden](https://www.thingiverse.com/thing:2881781) | 1 | Filament | Print
+3D Printed Part             | [Full Beark Spool Holder](https://www.thingiverse.com/thing:3142106) | 1 | Filament | Print
+Hardware                    | PC4-M10*0.9 Fittings              | 2        | $7.99 | Capricorn Premium Bowden Tubing [SKU 04614](https://www.captubes.com/shop/#!/4-Pack-PC4-M10*0-9-Fittings-For-1-75mm-Bowden-Tubing/p/114084043/category=33913105)
+Hardware                    | PTFE Tubing - 1.75 mm x 1 meter   | 1        | $11.99 | Capricorn Premium Bowden Tubing [SKU 2001](https://www.captubes.com/shop/#!/1-Meter-TL-Translucent-1-75mm-Bowden-Tubing/p/82190771/category=23214268)
 
 ## Documentation
 
