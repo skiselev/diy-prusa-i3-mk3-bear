@@ -5,7 +5,9 @@ My attempt to build an improved Prusa i3 MK3 3D printer clone with Full Bear fra
 Assembly/Component Type     | Description                       | Quantity | Price | Possible sources and notes
 --------------------------- | --------------------------------- | -------- | ----- | -------------------------- 
 Aluminum Frame and Hardware | Full Bear MK3 Upgrade Kit - [Detailed BOM](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/manual/bom.md) | 1 | $124.99 |ALL3D Makers [MK3 Bear Upgrade](https://all3dmakers.com/collections/bear-upgrade-kit/products/mk3-bear-upgrade)
-3D Printed Part             | Full Bear MK3 - [build_helper_106mm](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/build_helper_106mm.stl) | 1 | Filament | Print (priority 1)
+3D Printed Tool             | Full Bear MK3 - [build_helper_106mm](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/build_helper_106mm.stl) | 1 | Filament | Print (priority 1)
+3D Printed Tool             | [Linear Bearing Greasing cap](https://www.thingiverse.com/thing:1128781) - [Linear_Bearing_Greaser_-_LM8UU](https://www.thingiverse.com/download:1772343) | 1 | Filament | Print (priority 1) 
+3D Printed Tool             | Bondtech Extruder [PTFE Cutter 6.3 mm](https://github.com/BondtechAB/Bondtech_Prusa_i3/blob/master/CAD-Files/PTFE-CUTTER_1.0.STL) | 1 | Filament | Print (priority 1)
 3D Printed Part             | Full Bear MK3 - [rod_holder](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/rod_holder.stl) | 4 | Filament | Print (priority 1)
 3D Printed Part             | Full Bear MK3 - [y_idler_23](https://www.thingiverse.com/thing:3309424) | 1 | Filament | Print (priority 1). Note: 5 mm bore version for E3D 2GT 20T idler
 3D Printed Part             | Full Bear MK3 - [y_motor_mount](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/y_motor_mount.stl) | 1 | Filament | Print (priority 1)
