@@ -33,6 +33,7 @@ Aluminum Frame and Hardware | Full Bear MK3 Upgrade Kit - [Detailed BOM](https:/
 3D Printed Part             | Original Prusa i3 MK3S - [y-belt-holder](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/Printed-Parts/STL/y-belt-holder.stl) | 1 | Filament | Print (priority 1)
 3D Printed Part             | Original Prusa i3 MK3S - [y-belt-tensioner](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/Printed-Parts/STL/y-belt-tensioner.stl) | 1 | Filament | Print (priority 1)
 3D Printed Part             | Original Prusa i3 MK3S - [z-screw-cover](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/Printed-Parts/STL/z-screw-cover.stl) | 2 | Filament | Print (priority 1)
+3D Printed Part             | Original Prusa i3 MK3S - [plug-aligner](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/Printed-Parts/STL/plug-aligner.stl) | 1 | Filament | Print (priority 3)
 3D Printed Part             | [Universal Zaribo Einsy Box](https://www.thingiverse.com/thing:3239428) - [021._MK3_Bear_Einsy_Body_NO_RASP_v5.stl](https://www.thingiverse.com/download:6151820) | 1 | Filament | Print (priority 3)
 3D Printed Part             | [Universal Zaribo Einsy Box](https://www.thingiverse.com/thing:3239428) - [020._MK3_Bear_Einsy_Cover_NO_RASP_v5.stl](https://www.thingiverse.com/download:6049099) | 1 | Filament | Print (priority 3)
 3D Printed Part             | [Universal Zaribo Einsy Box](https://www.thingiverse.com/thing:3239428) - [EinsyBox-CableCover1-2x.stl](https://www.thingiverse.com/download:5659498) | 2 | Filament | Print (priority 3)
