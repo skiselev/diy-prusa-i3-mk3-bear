@@ -5,7 +5,7 @@ My attempt to build an improved Prusa i3 MK3 3D printer clone with Full Bear fra
 
 ### Procuring Parts and Materials
 
-* Procure the parts and the materials according to the [Bill of Materials](#bill-of-materials) section below
+* Purchase the parts and the materials according to the [Bill of Materials](#bill-of-materials) section below
 * Print required 3D printed tools and parts as listed below
   * Note the print priority:
     * Priority 1 parts are required for assembling the printer
@@ -15,7 +15,35 @@ My attempt to build an improved Prusa i3 MK3 3D printer clone with Full Bear fra
 
 ### Building Steps
 
-1. Follow the [Prusa i3 Bear Full Upgrade MK3 Assembly Instruction](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/manual/assembly_instructions.md) steps 1 - 7 to assemble the v-slot frame
+1. Follow the [Prusa i3 Bear Full Upgrade MK3 Assembly Instruction](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/manual/assembly_instructions.md) steps 1 - 9 to assemble the v-slot frame, mount Y rods and Y motor
+   * Note: The feet and the power supply lower mount can be installed later
+2. Follow the [Original Prusa i3 MK3S kit assembly guide - Y-axis assembly](https://manual.prusa3d.com/Guide/2.+Y-axis+assembly/1046?lang=en) steps 24 - 27 to assemble the Y carriage
+3. Follow the [Prusa i3 Bear Full Upgrade MK3 Assembly Instruction](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/manual/assembly_instructions.md) step 10, bullets 1 - 5 to mount the Y carriage on the Y rods (330 mm)
+   * Note: Do not follow the Y belt installation instructions - bullets 6 - 9
+4. Follow the [Original Prusa i3 MK3S kit assembly guide - Y-axis assembly](https://manual.prusa3d.com/Guide/2.+Y-axis+assembly/1046?lang=en) steps 33 - 42 to assemble and tension the Y belt, and consume 15% of gummy bears
+5. Follow the [Bear Extruder And X Axis Assembly - X axis](https://guides.bear-lab.com/Guide/2.+X+axis/3) to build the X axis.
+5. Follow the [Prusa i3 Bear Full Upgrade MK3 Assembly Instruction](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/manual/assembly_instructions.md) steps 11 - 13 to install Z motors and Z rods (320 mm), mount the X axis, and Y tops
+6. Follow the [Bondtech for Prusa i3 - Assembly and Installation Manual](https://github.com/BondtechAB/Bondtech_Prusa_i3/blob/master/Doc/Assembly%20manual%20Bondtech_Prusa_i3_V1.1.pdf) to build the extruder and mount it on the X axis. Refer to [Bear X axis and Extruder - Bondtech Prusa Upgrade Extruder Assembly Guide](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/optional_parts/bondtech_x_carriage) for X carriage mounting instructions and drawings. Install the X belt, and tighen it using two M3x18mm screws on X idler
+7. Follow the [Original Prusa i3 MK3S kit assembly guide - Heatbed and PSU assembly](https://manual.prusa3d.com/Guide/7.+Heatbed++&+PSU+assembly+(Silver+PSU)/1051?lang=en) steps 1 - 17 to assemble the heatbed
+8. (If priority 2 parts are available) Follow the [Prusa i3 Bear Full Upgrade MK3 Assembly Instruction](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/manual/assembly_instructions.md) steps 14 and 15 to mount the LCD and the power supply unit.
+   * Note: The LCD module I've got has a slightly bigger than standard PCB, and I had to file it to make it fit.
+9. (If priority 2 parts are available) Follow the [Universal Zaribo Einsy Box](https://www.thingiverse.com/thing:3239428) instructions to install the Einsy Enclosure
+    * Note: The Bear Einsy enclosure is slightly wider than it should be to fit properly. I had to file a corner to make it fit.
+10. (If priority 3 parts are available) install end caps according to the [Prusa i3 Bear Full Upgrade MK3 Assembly Instruction](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/manual/assembly_instructions.md) steps 14 and 19
+11. Follow the [Original Prusa i3 MK3S kit assembly guide - Electronics assembly](https://manual.prusa3d.com/Guide/8.+Electronics+assembly/1052?lang=en) to wire the motors, the headbed, and the extruder to Einsy Rambo module.
+12. (If priority 3 parts are available) route and secure the cables according to the [Prusa i3 Bear Full Upgrade MK3 Assembly Instruction](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/manual/assembly_instructions.md) step 18
+13. Perform the pre-flight check according to the [Original Prusa i3 MK3S kit assembly guide - Preflight check](https://manual.prusa3d.com/Guide/9.+Preflight+check/1053?lang=en)
+14. Calibrate the printer according to the [Prusa i3 Bear Full Upgrade MK3 Assembly Instruction](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/manual/assembly_instructions.md) steps 20 and 21.
+15. (If priority 2 parts were not initially printed) Print priority 2 parts, and follow the steps 8 and 9 above to mount the LCD module, the power supply unit, and the Einsy enclosure.
+16. (If priority 3 parts were not initially printed) Print priority 3 parts, and follow the steps 10 and 12 above to install end caps and route the wires
+
+### MK3S Sensor Add-on
+
+To be completed
+
+### Reverse Bowden Add-on
+
+To be completed
 
 ## Bill of Materials
 Assembly/Component Type     | Description                       | Quantity | Price | Possible sources and notes
