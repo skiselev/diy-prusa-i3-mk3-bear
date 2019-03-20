@@ -1,6 +1,22 @@
 # diy-prusa-i3-mk3-bear
 My attempt to build an improved Prusa i3 MK3 3D printer clone with Full Bear frame from scratch
 
+## Building Instructions
+
+### Procuring Parts and Materials
+
+* Procure the parts and the materials according to the [Bill of Materials](#bill-of-materials) section below
+* Print required 3D printed tools and parts as listed below
+  * Note the print priority:
+    * Priority 1 parts are required for assembling the printer
+    * Priority 2 parts are useful for continious printer operation
+    * Priority 3 parts are not essential, mostly decorative parts
+  * It is possible to print priority 2 and priority 3 parts once the printer is assembled, using the printer itself
+
+### Building Steps
+
+1. Follow the [Prusa i3 Bear Full Upgrade MK3 Assembly Instruction](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/manual/assembly_instructions.md) steps 1 - 7 to assemble the v-slot frame
+
 ## Bill of Materials
 Assembly/Component Type     | Description                       | Quantity | Price | Possible sources and notes
 --------------------------- | --------------------------------- | -------- | ----- | -------------------------- 
@@ -17,8 +33,8 @@ Aluminum Frame and Hardware | Full Bear MK3 Upgrade Kit - [Detailed BOM](https:/
 3D Printed Part             | Full Bear MK3 - [foot](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/foot.stl) | 4 | Filament | Print (priority 2)
 3D Printed Part             | Full Bear MK3 - [psu_lower_mount](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/psu_lower_mount.stl) | 1 | Filament | Print (priority 2)
 3D Printed Part             | Full Bear MK3 - [psu_upper_mount](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/psu_upper_mount.stl) | 2 | Filament | Print (priority 2)
-3D Printed Part             | Full Bear MK3 - [lcd_support_a](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/lcd_support_a.stl) | 1 | Filament | Print (priority 3)
-3D Printed Part             | Full Bear MK3 - [lcd_support_b](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/lcd_support_b.stl) | 1 | Filament | Print (priority 3)
+3D Printed Part             | Full Bear MK3 - [lcd_support_a](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/lcd_support_a.stl) | 1 | Filament | Print (priority 2)
+3D Printed Part             | Full Bear MK3 - [lcd_support_b](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/lcd_support_b.stl) | 1 | Filament | Print (priority 2)
 3D Printed Part             | Full Bear MK3 - [cable_clip_lcd](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/cable_clip_lcd.stl) | 6 | Filament | Print (priority 3)
 3D Printed Part             | Full Bear MK3 - [cable_clip_round](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/cable_clip_round.stl) | 5 | Filament | Print (priority 3)
 3D Printed Part             | Full Bear MK3 - [cable_clip_ziptie](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/cable_clip_ziptie.stl) | 3 | Filament | Print (priority 3)
@@ -36,11 +52,11 @@ Aluminum Frame and Hardware | Full Bear MK3 Upgrade Kit - [Detailed BOM](https:/
 3D Printed Part             | Original Prusa i3 MK3S - [y-belt-tensioner](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/Printed-Parts/STL/y-belt-tensioner.stl) | 1 | Filament | Print (priority 1)
 3D Printed Part             | Original Prusa i3 MK3S - [z-screw-cover](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/Printed-Parts/STL/z-screw-cover.stl) | 2 | Filament | Print (priority 1)
 3D Printed Part             | Original Prusa i3 MK3S - [plug-aligner](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/Printed-Parts/STL/plug-aligner.stl) | 1 | Filament | Print (priority 3)
-3D Printed Part             | [Universal Zaribo Einsy Box](https://www.thingiverse.com/thing:3239428) - [021._MK3_Bear_Einsy_Body_NO_RASP_v5.stl](https://www.thingiverse.com/download:6151820) | 1 | Filament | Print (priority 3)
-3D Printed Part             | [Universal Zaribo Einsy Box](https://www.thingiverse.com/thing:3239428) - [020._MK3_Bear_Einsy_Cover_NO_RASP_v5.stl](https://www.thingiverse.com/download:6049099) | 1 | Filament | Print (priority 3)
-3D Printed Part             | [Universal Zaribo Einsy Box](https://www.thingiverse.com/thing:3239428) - [EinsyBox-CableCover1-2x.stl](https://www.thingiverse.com/download:5659498) | 2 | Filament | Print (priority 3)
-3D Printed Part             | [Universal Zaribo Einsy Box](https://www.thingiverse.com/thing:3239428) - [EinsyBox-CableCover2-1x.stl](https://www.thingiverse.com/download:5659499) | 1 | Filament | Print (priority 3)
-3D Printed Part             | [LCD Cover for Prusa Bear Upgrade](https://www.thingiverse.com/thing:3385560) | 1 | Filament | Print (priority 3). Alternatives: Original Prusa i3 MK3S - [LCD cover; LCD knob](https://github.com/prusa3d/Original-Prusa-i3/tree/MK3S/Printed-Parts/STL), or [Prusa Bear LCD cover](https://www.thingiverse.com/thing:2941711)
+3D Printed Part             | [Universal Zaribo Einsy Box](https://www.thingiverse.com/thing:3239428) - [021._MK3_Bear_Einsy_Body_NO_RASP_v5.stl](https://www.thingiverse.com/download:6151820) | 1 | Filament | Print (priority 2)
+3D Printed Part             | [Universal Zaribo Einsy Box](https://www.thingiverse.com/thing:3239428) - [020._MK3_Bear_Einsy_Cover_NO_RASP_v5.stl](https://www.thingiverse.com/download:6049099) | 1 | Filament | Print (priority 2)
+3D Printed Part             | [Universal Zaribo Einsy Box](https://www.thingiverse.com/thing:3239428) - [EinsyBox-CableCover1-2x.stl](https://www.thingiverse.com/download:5659498) | 2 | Filament | Print (priority 2)
+3D Printed Part             | [Universal Zaribo Einsy Box](https://www.thingiverse.com/thing:3239428) - [EinsyBox-CableCover2-1x.stl](https://www.thingiverse.com/download:5659499) | 1 | Filament | Print (priority 2)
+3D Printed Part             | [LCD Cover for Prusa Bear Upgrade](https://www.thingiverse.com/thing:3385560) | 1 | Filament | Print (priority 2). Alternatives: Original Prusa i3 MK3S - [LCD cover; LCD knob](https://github.com/prusa3d/Original-Prusa-i3/tree/MK3S/Printed-Parts/STL), or [Prusa Bear LCD cover](https://www.thingiverse.com/thing:2941711)
 3D Printed Part             | Original Prusa i3 MK3S - [Heatbed cable cover](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/Printed-Parts/STL/heatbed-cable-cover.stl) | 1 | Filament | Print (priority 1)
 Bearing                     | LMU8 Linear Bearing               | 10 | $55.50| Misumi [LMU8](https://us.misumi-ec.com/vona2/detail/110300026540/?ProductCode=LMU8)
 Metal Rod                   | Z-Axis Rod - 8 mm diameter, 320 mm length  | 2 | $24 | Misumi [PSFJ8-320](https://us.misumi-ec.com/vona2/detail/110302634310/?ProductCode=PSFJ8-320)
