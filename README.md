@@ -1,6 +1,8 @@
 # diy-prusa-i3-mk3-bear
 My attempt to build an improved Prusa i3 MK3 3D printer clone with Full Bear frame from scratch
 
+![MK3 Bear Clone Printing](images/MK3_Bear_Clone_Printing.jpg)
+
 ## Building Instructions
 
 ### Procuring Parts and Materials
