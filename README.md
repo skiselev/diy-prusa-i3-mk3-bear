@@ -126,6 +126,8 @@ Nut                          | M3 nyloc nut                  | 7 | $1.12| Fasten
 Nut                          | M3 square nut                 | 8 | $1.60 | Fastenal [0161907](https://www.fastenal.com/products/details/0161907)<br>4 - X carriage<br>4 - Einsy Enclosure
 Washer                       | M3 x 7 mm washer              | 10 | $0.32 | Fastenal [MW6330000A20000](https://www.fastenal.com/products/details/MW6330000A20000)<br>8 - Z motor mounts<br>2 - headbed cable assembly
 Filament                     | 1 kg PETG                     | 1 | $24.99 | Amazon [eSUN 3D 1.75mm PETG Orange Filament 1kg](https://www.amazon.com/eSUN-1-75mm-Filament-Printer-Semi-Transparent/dp/B010Y25QZ2)
+Lubricant                    | Super Lube 21030 Synthetic Grease | 1 | $4.69 | Amazon [Super Lube 21030 Synthetic Grease (NLGI 2), 3 oz Tube](https://www.amazon.com/Super-Lube-21030-Synthetic-Grease/dp/B000XBH9HI)
+Thread Locker                | Medium Strength (Blue) Thread Locker | 1 | $5.57 | Amazon [Vibra-TITE 121 Medium Strength Removable Anaerobic Threadlocker, 10ml Bottle, Blue](https://www.amazon.com/gp/product/B0025PSNKM)
 
 ### Alternative: Original Prusa i3 MK3S Einsy Enclosure
 Assembly/Component Type     | Description                       | Quantity | Price | Possible sources and notes
