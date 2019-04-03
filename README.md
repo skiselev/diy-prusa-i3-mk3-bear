@@ -133,6 +133,16 @@ Filament                     | 1 kg PETG                     | 1 | $24.99 | Amaz
 Lubricant                    | Super Lube 21030 Synthetic Grease | 1 | $4.69 | Amazon [Super Lube 21030 Synthetic Grease (NLGI 2), 3 oz Tube](https://www.amazon.com/Super-Lube-21030-Synthetic-Grease/dp/B000XBH9HI)
 Thread Locker                | Medium Strength (Blue) Thread Locker | 1 | $5.57 | Amazon [Vibra-TITE 121 Medium Strength Removable Anaerobic Threadlocker, 10ml Bottle, Blue](https://www.amazon.com/gp/product/B0025PSNKM)
 
+### Reverse Bowden Add-on
+Assembly/Component Type     | Description                       | Quantity | Price | Possible sources and notes
+--------------------------- | --------------------------------- | -------- | ----- | --------------------------
+3D Printed Part             | [Bondtech extruder add-on](https://www.thingiverse.com/thing:3463618) - [Sensor_Body_Bowden.stl](https://www.thingiverse.com/download:6144709) | 1 | Filament | Print
+3D Printed Part             | [Bondtech-Prusa_i3_MK3S-Reverse_Bowden-Sensor_Cover.stl](printed_parts/Bondtech-Prusa_i3_MK3S-Reverse_Bowden-Sensor_Cover.stl) | 1 | Filament | Print
+3D Printed Part             | [Lever.STL](https://github.com/BondtechAB/Bondtech_Prusa_i3/blob/master/CAD-Files/MK3s%20Sensor%20Add-On/Lever.STL) | 1 | Filament | Print
+3D Printed Part             | Bear Extruder and X Axis MK3 [vslot_mount_pc4-m10](https://github.com/gregsaun/bear_extruder_and_x_axis/blob/master/optional_parts/reverse_bowden/printed_parts/vslot_mount_pc4-m10.stl) | 1 | Filament | Print
+3D Printed Part             | [Full Beark Spool Holder](https://www.thingiverse.com/thing:3142106) | 1 | Filament | Print
+Hardware                    | PTFE Tubing - 1.75 mm x 1 meter<br>PC4-M10*0.9 Straight-Thru Fittings x2 | 1 set       | $15.99 | Capricorn Premium Bowden Tubing [SKU 2001](https://www.captubes.com/shop/#!/1-Meter-TL-Translucent-1-75mm-Bowden-Tubing/p/82190771/category=23214268)<br>Note: When at tubing page, add fittings from the drop down list on the right.
+
 ### Alternative: Original Prusa i3 MK3S Einsy Enclosure
 Assembly/Component Type     | Description                       | Quantity | Price | Possible sources and notes
 --------------------------- | --------------------------------- | -------- | ----- | -------------------------- 
@@ -145,19 +155,12 @@ Assembly/Component Type     | Description                       | Quantity | Pri
 3D Printed Part             | Original Prusa i3 MK3S - [Extruder-cable-clip](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/Printed-Parts/STL/Extruder-cable-clip.stl) | 1 | Filament | Print (priority 3)
 3D Printed Part             | Original Prusa i3 MK3S - [Heatbed-cable-clip](https://github.com/prusa3d/Original-Prusa-i3/blob/MK3S/Printed-Parts/STL/Heatbed-cable-clip.stl) | 1 | Filament | Print (priority 3)
 
-### Reverse Bowden Add-on
-Assembly/Component Type     | Description                       | Quantity | Price | Possible sources and notes
---------------------------- | --------------------------------- | -------- | ----- | --------------------------
-3D Printed Part             | [Bondtech extruder add-on](https://www.thingiverse.com/thing:3463618) | 1 | Filament | Print
-3D Printed Part             | Bear Extruder and X Axis MK3 [vslot_mount_pc4-m10](https://github.com/gregsaun/bear_extruder_and_x_axis/blob/master/optional_parts/reverse_bowden/printed_parts/vslot_mount_pc4-m10.stl) | 1 | Filament | Print
-3D Printed Part             | [Full Beark Spool Holder](https://www.thingiverse.com/thing:3142106) | 1 | Filament | Print
-Hardware                    | PTFE Tubing - 1.75 mm x 1 meter<br>PC4-M10*0.9 Straight-Thru Fittings x2 | 1 set       | $15.99 | Capricorn Premium Bowden Tubing [SKU 2001](https://www.captubes.com/shop/#!/1-Meter-TL-Translucent-1-75mm-Bowden-Tubing/p/82190771/category=23214268)<br>Note: When at tubing page, add fittings from the drop down list on the right.
-
 ## Documentation
 
 * [Prusa i3 Bear Full Upgrade MK3](https://github.com/gregsaun/prusa_i3_bear_upgrade/tree/master/full_upgrade/for_mk3/manual)
 * [Original Prusa i3 MK3S Kit Assembly Manual](https://manual.prusa3d.com/c/Original_Prusa_i3_MK3S_kit_assembly)
-* [Bondtech Prusa i3 Assembly Manual](https://github.com/BondtechAB/Bondtech_Prusa_i3/tree/master/Doc)
+* [Bondtech Prusa i3 Assembly Manual](https://github.com/BondtechAB/Bondtech_Prusa_i3/blob/master/Doc/Assembly%20manual%20Bondtech_Prusa_i3_V1.1.pdf)
+* [Bondtech Prusa i3 - MK3S Sensor Add-On](https://github.com/BondtechAB/Bondtech_Prusa_i3/blob/master/Doc/Sensor%20Add-On%20V1.0.pdf)
 * [Bear X Axis and Bondtech Extruder](https://github.com/gregsaun/bear_extruder_and_x_axis/tree/master/optional_parts/bondtech_x_carriage)
 * [Optional part for Prusa i3 Bear Upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/optional_parts.md)
 * [Regular extruder temperature drops with firmwares 3.5.0 and 3.5.1](https://github.com/prusa3d/Prusa-Firmware/issues/1405)
