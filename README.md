@@ -142,6 +142,7 @@ Assembly/Component Type     | Description                       | Quantity | Pri
 3D Printed Part             | Bear Extruder and X Axis MK3 [vslot_mount_pc4-m10](https://github.com/gregsaun/bear_extruder_and_x_axis/blob/master/optional_parts/reverse_bowden/printed_parts/vslot_mount_pc4-m10.stl) | 1 | Filament | Print
 3D Printed Part             | [Full Beark Spool Holder](https://www.thingiverse.com/thing:3142106) | 1 | Filament | Print
 Hardware                    | PTFE Tubing - 1.75 mm x 1 meter<br>PC4-M10*0.9 Straight-Thru Fittings x2 | 1 set       | $15.99 | Capricorn Premium Bowden Tubing [SKU 2001](https://www.captubes.com/shop/#!/1-Meter-TL-Translucent-1-75mm-Bowden-Tubing/p/82190771/category=23214268)<br>Note: When at tubing page, add fittings from the drop down list on the right.
+Screw                        | M3 x 16mm socket cap screw       | 1        | $0.11 | Fastenal [MS2510016A20000](https://www.fastenal.com/products/details/MS2510016A20000)
 
 ### Alternative: Original Prusa i3 MK3S Einsy Enclosure
 Assembly/Component Type     | Description                       | Quantity | Price | Possible sources and notes
