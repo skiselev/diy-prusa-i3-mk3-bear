@@ -43,6 +43,10 @@ My attempt to build an improved Prusa i3 MK3 3D printer clone with Full Bear fra
 16. (If priority 2 parts were not initially printed) Print priority 2 parts, and follow the steps 8 and 9 above to mount the LCD module, the power supply unit, and the Einsy enclosure.
 17. (If priority 3 parts were not initially printed) Print priority 3 parts, and follow the steps 10 and 12 above to install end caps and route the wires
 
+### Firmware
+* Download [Bondtech Firmware Variation Updates For Prusa 3D Printers - For MK3S Using AllMetal V6](https://www.bondtech.se/en/knowledge-base/firmware-updates-for-prusa-i3/)
+* Flash the firmware using PrusaSlicer *Configuration -> Flash printer firmware* menu
+
 ### MK3S Sensor Add-on
 
 To be completed
